@@ -1,7 +1,10 @@
 {
   "name": "first-ionic-app",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
